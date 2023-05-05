@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_12._Do_multipication_with_sum__like_elementry_school_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
