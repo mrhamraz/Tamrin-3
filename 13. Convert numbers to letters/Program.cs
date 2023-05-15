@@ -6,7 +6,7 @@ namespace _13._Convert_numbers_to_letters
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter number to print Multipication of it's digits: ");
+            Console.WriteLine("Enter number to print it in string form: ");
             string num = Console.ReadLine();
 
             string[] numbers = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
